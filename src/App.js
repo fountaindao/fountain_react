@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://lq.systems"
+          href="http://lq.systems"
           target="_blank"
           rel="noopener noreferrer"
         >
-          How do we reverse the entropy of the universe? 
+          How do we reverse the entropy of the universe?
         </a>
       </header>
     </div>
