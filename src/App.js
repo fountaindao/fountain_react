@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Experience the Fountain rejuvenation experience
+          Flow into the Fountain rejuvenation experience
         </p>
         <a
           className="App-link"
