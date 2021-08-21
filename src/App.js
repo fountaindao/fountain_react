@@ -17,7 +17,7 @@ function App() {
         >
           How do we reverse the entropy of the universe?
         </a>
-        <iframe src='https://opensea.io/collection/fountain-clinic?embed=true'
+        <iframe src='https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/109525556422896821561320495960339239752497424726757471416685648908125737058305?embed=true'
         width='100%'
         height='100%'
         frameborder='0'
