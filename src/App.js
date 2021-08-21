@@ -18,11 +18,13 @@ function App() {
           How do we reverse the entropy of the universe?
         </a>
 
+      <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
       <nft-card
       contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
       tokenId="109525556422896821561320495960339239752497424726757471416685648908125737058305">
       </nft-card>
-      <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
       </header>
     </div>
   );
