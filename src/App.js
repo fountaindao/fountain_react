@@ -18,7 +18,6 @@ function App() {
           How do we reverse the entropy of the universe?
         </a>
 
-      <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
       <nft-card
       contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
