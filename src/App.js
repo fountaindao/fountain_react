@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import logo from './f_logo.png';
 
 import './App.css';
@@ -11,7 +10,6 @@ function App() {
       contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
       tokenId="109525556422896821561320495960339239752497424726757471416685648908125737058305">
       </nft-card>
-        // <img src={logo} className="App-logo" alt="logo" />
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>
