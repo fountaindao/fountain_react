@@ -1,4 +1,6 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import logo from './f_logo.png';
+
 import './App.css';
 
 function App() {
@@ -10,7 +12,7 @@ function App() {
       tokenId="109525556422896821561320495960339239752497424726757471416685648908125737058305">
       </nft-card>
         // <img src={logo} className="App-logo" alt="logo" />
-        <img src={f_logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
 
         <p>
           Flow into the Fountain rejuvenation experience
